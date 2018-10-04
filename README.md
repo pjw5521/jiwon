@@ -31,4 +31,6 @@
    * daily
     * 학교
     * 알바
-![README ING](./마인드.jpg)
+    
+    
+![README IMG](./마인드맵.jpg)
