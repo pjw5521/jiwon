@@ -31,4 +31,4 @@
    * daily
     * 학교
     * 알바
-![마인드맵](jiwon.jpg)
+![마인드맵](./jiwon.jpg)
